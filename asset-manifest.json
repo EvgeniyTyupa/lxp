@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/git%20/static/css/main.2e55bfb5.chunk.css",
+    "main.js": "/git%20/static/js/main.fa16adda.chunk.js",
+    "main.js.map": "/git%20/static/js/main.fa16adda.chunk.js.map",
+    "runtime-main.js": "/git%20/static/js/runtime-main.b0f27218.js",
+    "runtime-main.js.map": "/git%20/static/js/runtime-main.b0f27218.js.map",
+    "static/js/2.9acd9e1a.chunk.js": "/git%20/static/js/2.9acd9e1a.chunk.js",
+    "static/js/2.9acd9e1a.chunk.js.map": "/git%20/static/js/2.9acd9e1a.chunk.js.map",
+    "static/js/3.11983898.chunk.js": "/git%20/static/js/3.11983898.chunk.js",
+    "static/js/3.11983898.chunk.js.map": "/git%20/static/js/3.11983898.chunk.js.map",
+    "index.html": "/git%20/index.html",
+    "static/css/main.2e55bfb5.chunk.css.map": "/git%20/static/css/main.2e55bfb5.chunk.css.map",
+    "static/js/2.9acd9e1a.chunk.js.LICENSE.txt": "/git%20/static/js/2.9acd9e1a.chunk.js.LICENSE.txt",
+    "static/media/img1.c97d4c43.jpg": "/git%20/static/media/img1.c97d4c43.jpg",
+    "static/media/img2.f9408d04.jpg": "/git%20/static/media/img2.f9408d04.jpg",
+    "static/media/preloader.7a2cbfda.svg": "/git%20/static/media/preloader.7a2cbfda.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0f27218.js",
+    "static/js/2.9acd9e1a.chunk.js",
+    "static/css/main.2e55bfb5.chunk.css",
+    "static/js/main.fa16adda.chunk.js"
+  ]
+}
